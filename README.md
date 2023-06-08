@@ -44,6 +44,9 @@ array([[3, 1, 0],
 
 For more detailed usage and examples, please refer to the Documentation or check out our Examples folder.
 
+## Documentation
+Please see our [Documentation](Documentation.md) for a complete guide on how to use RST. You'll find detailed explanations of the functions and methods, along with a series of tutorials and examples.
+
 ## Contributing
 We welcome contributions! Please see our Contribution Guidelines for detailed information on how you can contribute to the project.
 
